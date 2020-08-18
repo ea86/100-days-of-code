@@ -21,3 +21,7 @@
 **Today's Progress**: 
 - Continued working on JavaScript Algorithms and Data Structures - Basic JavaScript at freeCodeCamp.org. 
 - Completed: 110 / 110
+
+### Day 3: August 18, 2020:
+**
+- 88% completed of Regular Expressions in JavaScript Algorithms and Data Structures at freeCodeCamp.org.
